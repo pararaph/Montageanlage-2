@@ -1,0 +1,38 @@
+﻿                      Masseneigenschaft von TEIL ROLLEN_04
+
+                        VOLUMEN =  9.4036857e+01 MM^3
+                 FLÄCHENINHALT =  1.1718752e+02 MM^2
+                         DICHTE =  7.8270820e-06 KILOGRAMM / MM^3
+                          MASSE =  7.3603419e-04 KILOGRAMM 
+
+           SCHWERPUNKT in Bezug auf den Koordinatenrahmen _ROLLEN_04:
+X   Y   Z           0.0000000e+00  0.0000000e+00  0.0000000e+00  MM
+
+     Trägheit in Bezug auf Koordinatensystem _ROLLEN_04  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.1697598e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.4690514e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.1697630e-03
+
+        Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _ROLLEN_04
+                                                      (KILOGRAMM * MM^2)        
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.1697598e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.4690514e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.1697630e-03
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          1.4690514e-03  4.1697562e-03  4.1697666e-03
+
+          Rotationsmatrix von _ROLLEN_04 Orientierung auf Hauptachsen:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+     Rotationswinkel von _ROLLEN_04 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z       0.000         90.000         90.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          1.4127636e+00  2.3801610e+00  2.3801640e+00  MM
+

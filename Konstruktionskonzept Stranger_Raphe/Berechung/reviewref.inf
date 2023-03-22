@@ -1,0 +1,52 @@
+﻿|***************************|
+    REFERENZ-INFORMATIONEN    
+|***************************|
+ Referenz Nr. 1 aus 1 
+
+Referenz:
+   TYP   : Ebene
+
+Status   : in Geometrie
+
+
+Referenz-Besitzer:
+ Modell  :
+   NAME   : 017_020 
+   TYP   : Teil
+ KE :
+
+    KE-Nummer       1
+    INTERNE KE-ID 33
+    Kinder = 99(#2) 110(#3) 112(#4) 160(#6) 88(#7) 380(#8) 
+
+
+ ERSTES KE: Drehen
+
+  Nr.     ELEMENTNAME     INFORMATIONEN                                         
+  ---     -------------   -------------                                         
+   1      KE-Name         Definiert                                             
+   2      Skizze          Definiert                                             
+   3      KE-Form         Volumenkörper                                         
+   4      Winkel          Definiert                                             
+   4.1    Seite Eins      Definiert                                             
+   4.1.1  SeiteEins Wink  Variable                                              
+   4.1.2  Wert            360.00                                                
+
+    Schnittname = S2D0002 
+
+    FEATURE Ist in Folie(n) :
+      A_ACHSEN - Operation = Angezeigt
+
+    Bemaßungen des KE:
+    d1 = (  Angezeigt:) 6 Dia
+         (Gespeichert:) 6.0 ( 0.01, -0.01 ) 
+    d2 = (  Angezeigt:) 10 Dia
+         (Gespeichert:) 10.0 ( 0.01, -0.01 ) 
+    k = (  Angezeigt:) 6
+        (Gespeichert:) 6.0 ( 0.01, -0.01 ) 
+    l = (  Angezeigt:) 16
+        (Gespeichert:) 16.0 ( 0.01, -0.01 ) 
+Beziehung                           Parameter                 Neuer Wert
+--------                           ---------                 --- -----
+
+*** Von diesesm KE gesteuerte Teilebeziehungen:

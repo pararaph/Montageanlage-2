@@ -1,0 +1,88 @@
+﻿                     Masseneigenschaft von BAUGRUPPE 021_003
+
+                        VOLUMEN =  1.1941268e+05 MM^3
+                 FLÄCHENINHALT =  5.3550616e+04 MM^2
+                MITTLERE DICHTE =  6.7586277e-06 KILOGRAMM / MM^3
+                          MASSE =  8.0706582e-01 KILOGRAMM 
+
+            SCHWERPUNKT in Bezug auf den Koordinatenrahmen _021_003:
+X   Y   Z           1.6196548e+01  1.1694909e+02 -3.1383651e+01  MM
+
+      Trägheit in Bezug auf Koordinatensystem _021_003  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         1.6021880e+04 -1.9064174e+03  5.3239559e+02
+Iyx Iyy Iyz        -1.9064174e+03  2.0889137e+03  3.8745289e+03
+Izx Izy Izz         5.3239559e+02  3.8745289e+03  1.4648257e+04
+
+         Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _021_003
+                                                     (KILOGRAMM * MM^2)         
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.1886620e+03 -3.7769626e+02  1.2215854e+02
+Iyx Iyy Iyz        -3.7769626e+02  1.0822914e+03  9.1236372e+02
+Izx Izy Izz         1.2215854e+02  9.1236372e+02  3.3982291e+03
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          7.2063119e+02  3.7143419e+03  4.2342094e+03
+
+           Rotationsmatrix von _021_003 Orientierung auf Hauptachsen:
+                       0.11370        0.01568        0.99339
+                       0.93883        0.32547       -0.11259
+                      -0.32508        0.94542        0.02229
+
+      Rotationswinkel von _021_003 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z      78.804         83.410         -7.851 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          2.9881476e+01  6.7840097e+01  7.2432202e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+           (in Baugruppeneinheiten und dem Koordinatensystem _021_003)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    011_014                          STAHL
+         7.82708e-06  1.58254e-01 -1.07618e-01  1.04948e+01  1.12561e-01
+    017_005                          42CRMO4
+         7.85000e-06  4.07655e-03  0.00000e+00 -6.65000e+01  1.45983e+00
+    017_005                          42CRMO4
+         7.85000e-06  4.07655e-03  0.00000e+00  6.85000e+01  1.45983e+00
+    017_006                          STAHL
+         7.82708e-06  8.65972e-04  0.00000e+00  0.00000e+00 -6.67559e-01
+    011_015                          STAHL
+         7.82708e-06  7.37445e-02  2.17434e+01  1.06617e+02  0.00000e+00
+    017_007                          STAHL
+         7.85000e-06  4.58679e-03  0.00000e+00  1.07500e+02  1.41915e+00
+    017_008                          STAHL
+         7.85000e-06  1.30164e-03  0.00000e+00  1.07500e+02 -9.50000e+00
+    021_011                          UNKNOWN
+         2.79355e-06  2.49742e-02  2.95000e+01  1.59071e+02 -5.50343e-02
+    011_022                          STAHL
+         7.82708e-06  6.82758e-03  1.25000e+01  1.18025e+02  0.00000e+00
+    021_012                          UNKNOWN
+         2.79355e-06  3.75829e-02  1.25000e+01  1.60033e+02 -7.56641e-02
+    011_023                          STAHL
+         7.82708e-06  4.25033e-02  2.10000e+01  1.42617e+02 -9.58777e+00
+    011_009                          AL2014
+         2.79355e-06  2.07367e-03  2.95000e+01  1.85300e+02  1.38707e+01
+    011_009                          AL2014
+         2.79355e-06  2.07367e-03  1.25000e+01  1.46950e+02  1.58707e+01
+    011_009                          AL2014
+         2.79355e-06  2.07367e-03  2.95000e+01  1.47450e+02  1.38707e+01
+    011_009                          AL2014
+         2.79355e-06  2.07367e-03  1.25000e+01  1.81950e+02  1.58707e+01
+    011_047                          STAHL
+         7.82708e-06  1.67915e-02  1.55139e+01  9.21450e+01  0.00000e+00
+    017_002                          STAHL
+         7.85000e-06  2.25558e-03  8.29423e+00  8.75000e+01  0.00000e+00
+    017_002                          STAHL
+         7.85000e-06  2.25558e-03  2.45000e+01  9.47058e+01  0.00000e+00
+    011_046                          STAHL
+         7.82708e-06  4.11106e-01  2.10000e+01  1.52950e+02 -6.05944e+01
+    017_017                          STAHL
+         7.85000e-06  3.78400e-03  1.10000e+01  1.52950e+02 -2.01965e+01
+    017_017                          STAHL
+         7.85000e-06  3.78400e-03  3.10000e+01  1.52950e+02 -2.01965e+01

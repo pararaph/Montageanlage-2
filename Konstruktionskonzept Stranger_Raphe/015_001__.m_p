@@ -1,0 +1,38 @@
+﻿                      Masseneigenschaft von TEIL 015_001__
+
+                        VOLUMEN =  1.8589116e+05 MM^3
+                 FLÄCHENINHALT =  2.9974208e+04 MM^2
+                         DICHTE =  7.8270820e-06 KILOGRAMM / MM^3
+                          MASSE =  1.4549854e+00 KILOGRAMM 
+
+           SCHWERPUNKT in Bezug auf den Koordinatenrahmen _015_001__:
+X   Y   Z           0.0000000e+00  1.0033899e+01  0.0000000e+00  MM
+
+     Trägheit in Bezug auf Koordinatensystem _015_001__  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         6.4521997e+02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  3.6163309e+03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  3.3607681e+03
+
+        Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _015_001__
+                                                      (KILOGRAMM * MM^2)        
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.9873332e+02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  3.6163309e+03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  3.2142814e+03
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          4.9873332e+02  3.2142814e+03  3.6163309e+03
+
+          Rotationsmatrix von _015_001__ Orientierung auf Hauptachsen:
+                       1.00000        0.00000        0.00000
+                       0.00000        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+     Rotationswinkel von _015_001__ Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z      90.000          0.000          0.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          1.8514197e+01  4.7001599e+01  4.9854547e+01  MM
+

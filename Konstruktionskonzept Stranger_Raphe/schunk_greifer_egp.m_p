@@ -1,0 +1,76 @@
+﻿               Masseneigenschaft von BAUGRUPPE SCHUNK_GREIFER_EGP
+
+                        VOLUMEN =  3.4166183e+04 MM^3
+                 FLÄCHENINHALT =  1.3944978e+04 MM^2
+                MITTLERE DICHTE =  1.0000000e+00 KILOGRAMM / MM^3
+                          MASSE =  3.4166183e+04 KILOGRAMM 
+
+        SCHWERPUNKT in Bezug auf den Koordinatenrahmen _SCHUNK_GREIFER_E:
+X   Y   Z           5.5092349e-01  3.5724041e+01 -2.6406918e-02  MM
+
+  Trägheit in Bezug auf Koordinatensystem _SCHUNK_GREIFER_E  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         5.9104869e+07 -7.5819480e+05  1.6534529e+04
+Iyx Iyy Iyz        -7.5819480e+05  3.1046098e+06  2.9263647e+04
+Izx Izy Izz         1.6534529e+04  2.9263647e+04  6.0394301e+07
+
+    Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _SCHUNK_GREIFER_E
+                                                          (KILOGRAMM * MM^2)    
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         1.5501719e+07 -8.5762864e+04  1.6037473e+04
+Iyx Iyy Iyz        -8.5762864e+04  3.0942159e+06 -2.9674255e+03
+Izx Izy Izz         1.6037473e+04 -2.9674255e+03  1.6780805e+07
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          3.0936226e+06  1.5502110e+07  1.6781007e+07
+
+       Rotationsmatrix von _SCHUNK_GREIFER_E Orientierung auf Hauptachsen:
+                       0.00691       -0.99990        0.01256
+                       0.99998        0.00691       -0.00030
+                       0.00021        0.01256        0.99992
+
+  Rotationswinkel von _SCHUNK_GREIFER_E Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z       0.000          0.719         89.604 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          9.5155837e+00  2.1300862e+01  2.2162093e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+      (in Baugruppeneinheiten und dem Koordinatensystem _SCHUNK_GREIFER_E)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    SCHUK_GREIFER_1                  UNKNOWN
+         1.00000e+00  2.74526e+01 -3.55712e-02  3.31500e+01 -9.04622e+00
+    SCHUNK_GREIFER_2                 UNKNOWN
+         1.00000e+00  5.71500e+01  1.33487e+01  6.79000e+01 -3.20000e+00
+    SCHUNK_GREIFER_3                 UNKNOWN
+         1.00000e+00  4.07069e+01  1.20000e+01  6.78512e+01 -2.71588e+00
+    SCHUNK_GREIFER_4                 UNKNOWN
+         1.00000e+00  3.63592e+01 -1.16056e+01  6.79000e+01 -3.20000e+00
+    SCHUNK_GREIFER_3                 UNKNOWN
+         1.00000e+00  4.07069e+01 -9.00000e+00  6.79488e+01 -2.71588e+00
+    SCHUNK_GREIFER_5                 UNKNOWN
+         1.00000e+00  9.18814e+02 -1.10857e+00  7.09208e+01 -1.98784e+00
+    SCHUNK_GREIFER_4                 UNKNOWN
+         1.00000e+00  3.63592e+01 -1.46056e+01  6.79000e+01  3.20000e+00
+    SCHUNK_GREIFER_3                 UNKNOWN
+         1.00000e+00  4.07069e+01 -1.20000e+01  6.78512e+01  2.71588e+00
+    SCHUNK_GREIFER_4                 UNKNOWN
+         1.00000e+00  3.63592e+01  1.16056e+01  6.79000e+01  3.20000e+00
+    SCHUNK_GREIFER_3                 UNKNOWN
+         1.00000e+00  4.07069e+01  9.00000e+00  6.79488e+01  2.71588e+00
+    SCHUNK_GREIFER_5                 UNKNOWN
+         1.00000e+00  9.18814e+02  1.10857e+00  7.09208e+01  1.98784e+00
+    SCHUNK_GREIFER_6                 UNKNOWN
+         1.00000e+00  3.42204e+02  1.66666e+01  5.46500e+01  4.90141e+00
+    SCHUNK_GREIFER_6                 UNKNOWN
+         1.00000e+00  3.42204e+02  1.66666e+01  5.46500e+01 -4.90141e+00
+    SCHUNK_GREIFER_7                 UNKNOWN
+         1.00000e+00  4.44705e+02  1.62440e+01  1.64155e+01 -1.25000e+00
+    SCHUNK_GREIFER_8                 UNKNOWN
+         1.00000e+00  3.08429e+04 -1.24635e-03  3.31445e+01 -1.02031e-03

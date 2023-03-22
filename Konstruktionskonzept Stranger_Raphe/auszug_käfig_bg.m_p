@@ -1,0 +1,88 @@
+﻿                 Masseneigenschaft von BAUGRUPPE AUSZUG_KÄFIG_BG
+
+                        VOLUMEN =  2.1720822e+03 MM^3
+                 FLÄCHENINHALT =  6.5580146e+03 MM^2
+                MITTLERE DICHTE =  7.8324144e-06 KILOGRAMM / MM^3
+                          MASSE =  1.7012648e-02 KILOGRAMM 
+
+        SCHWERPUNKT in Bezug auf den Koordinatenrahmen _AUSZUG_KÄFIG_BG:
+X   Y   Z          -4.9123646e-01 -1.8090038e+00 -1.4057354e-04  MM
+
+  Trägheit in Bezug auf Koordinatensystem _AUSZUG_KÄFIG_BG  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         2.5595825e+01 -2.8140168e-02  1.8528264e-06
+Iyx Iyy Iyz        -2.8140168e-02  2.5575401e+01 -1.0952964e-05
+Izx Izy Izz         1.8528264e-06 -1.0952964e-05  2.6494471e-01
+
+     Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _AUSZUG_KÄFIG_BG
+                                                         (KILOGRAMM * MM^2)     
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         2.5540151e+01 -1.3021901e-02  3.0276322e-06
+Iyx Iyy Iyz        -1.3021901e-02  2.5571296e+01 -6.6266800e-06
+Izx Izy Izz         3.0276322e-06 -6.6266800e-06  2.0516554e-01
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          2.0516554e-01  2.5535424e+01  2.5576023e+01
+
+       Rotationsmatrix von _AUSZUG_KÄFIG_BG Orientierung auf Hauptachsen:
+                       0.00000        0.93998       -0.34123
+                       0.00000        0.34123        0.93998
+                       1.00000        0.00000        0.00000
+
+  Rotationswinkel von _AUSZUG_KÄFIG_BG Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z     -90.000        -19.952        -90.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          3.4726918e+00  3.8742316e+01  3.8773102e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+       (in Baugruppeneinheiten und dem Koordinatensystem _AUSZUG_KÄFIG_BG)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    AUSZUG_KÄFIG                    UNKNOWN
+         7.84000e-06  7.02943e-03 -1.18889e+00 -2.32176e+00 -3.40217e-04
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00  1.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00  2.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00  3.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00  4.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00  5.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00 -1.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00 -2.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00 -3.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00 -4.80000e+01
+    AUSZUG_KUGEL_4                   STAHL
+         7.82708e-06  2.62288e-04  0.00000e+00 -4.95000e+00 -5.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01  1.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01  2.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01  3.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01  4.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01  5.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01 -1.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01 -2.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01 -3.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01 -4.80000e+01
+    AUSZUG_ROLLEN_4                  STAHL
+         7.82708e-06  7.36034e-04  0.00000e+00 -2.00000e-01 -5.80000e+01

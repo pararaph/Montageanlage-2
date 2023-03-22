@@ -1,0 +1,56 @@
+﻿                Masseneigenschaft von BAUGRUPPE BG_GREIFER_SCHUNK
+
+                        VOLUMEN =  3.7447948e+04 MM^3
+                 FLÄCHENINHALT =  1.7135634e+04 MM^2
+                MITTLERE DICHTE =  9.1236530e-01 KILOGRAMM / MM^3
+                          MASSE =  3.4166208e+04 KILOGRAMM 
+
+        SCHWERPUNKT in Bezug auf den Koordinatenrahmen _BG_GREIFER_SCHUN:
+X   Y   Z           5.5092287e-01  3.5724081e+01 -2.6406898e-02  MM
+
+  Trägheit in Bezug auf Koordinatensystem _BG_GREIFER_SCHUN  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         5.9105074e+07 -7.5819410e+05  1.6534529e+04
+Iyx Iyy Iyz        -7.5819410e+05  3.1046114e+06  2.9263647e+04
+Izx Izy Izz         1.6534529e+04  2.9263647e+04  6.0394505e+07
+
+    Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _BG_GREIFER_SCHUN
+                                                          (KILOGRAMM * MM^2)    
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         1.5501794e+07 -8.5761661e+04  1.6037473e+04
+Iyx Iyy Iyz        -8.5761661e+04  3.0942176e+06 -2.9674615e+03
+Izx Izy Izz         1.6037473e+04 -2.9674615e+03  1.6780880e+07
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          3.0936242e+06  1.5502185e+07  1.6781082e+07
+
+       Rotationsmatrix von _BG_GREIFER_SCHUN Orientierung auf Hauptachsen:
+                       0.00691       -0.99990        0.01256
+                       0.99998        0.00691       -0.00030
+                       0.00021        0.01256        0.99992
+
+  Rotationswinkel von _BG_GREIFER_SCHUN Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z       0.000          0.719         89.604 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          9.5155827e+00  2.1300906e+01  2.2162134e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+      (in Baugruppeneinheiten und dem Koordinatensystem _BG_GREIFER_SCHUN)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    SCHUNK_GREIFER_EGP               UNKNOWN
+         1.00000e+00  3.41662e+04  5.50923e-01  3.57240e+01 -2.64069e-02
+    GREIFER_BACKEN_LANG              STAHL
+         7.82708e-06  1.20357e-02 -4.00708e+00  9.12518e+01  0.00000e+00
+    GREIFER_BACKEN_KURZ              STAHL
+         7.82708e-06  1.03333e-02  4.00001e+00  8.95674e+01  0.00000e+00
+    ZSK_M4X6                         STAHL
+         7.85000e-06  1.66370e-03 -9.68089e+00  7.69000e+01  0.00000e+00
+    ZSK_M4X6                         STAHL
+         7.85000e-06  1.66370e-03  9.68089e+00  7.69000e+01  0.00000e+00

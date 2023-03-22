@@ -1,0 +1,38 @@
+﻿                      Masseneigenschaft von TEIL KÄFIG_LANG
+
+                        VOLUMEN =  8.9661044e+02 MM^3
+                 FLÄCHENINHALT =  4.8834846e+03 MM^2
+                         DICHTE =  7.8500000e-06 KILOGRAMM / MM^3
+                          MASSE =  7.0383920e-03 KILOGRAMM 
+
+           SCHWERPUNKT in Bezug auf den Koordinatenrahmen _KÄFIG_LANG:
+X   Y   Z          -1.1888927e+00 -2.3217570e+00 -3.4021671e-04  MM
+
+     Trägheit in Bezug auf Koordinatensystem _KÄFIG_LANG  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         9.1115661e+00 -2.8176058e-02  1.8551897e-06
+Iyx Iyy Iyz        -2.8176058e-02  9.1287184e+00 -1.0986601e-05
+Izx Izy Izz         1.8551897e-06 -1.0986601e-05  1.5468599e-01
+
+       Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _KÄFIG_LANG
+                                                       (KILOGRAMM * MM^2)       
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         9.0736252e+00 -8.7478446e-03  4.7020866e-06
+Iyx Iyy Iyz        -8.7478446e-03  9.1187699e+00 -5.4269711e-06
+Izx Izy Izz         4.7020866e-06 -5.4269711e-06  1.0679662e-01
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          1.0679662e-01  9.0719894e+00  9.1204057e+00
+
+          Rotationsmatrix von _KÄFIG_LANG Orientierung auf Hauptachsen:
+                       0.00000        0.98296       -0.18381
+                       0.00000        0.18381        0.98296
+                       1.00000        0.00000        0.00000
+
+     Rotationswinkel von _KÄFIG_LANG Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z     -90.000        -10.592        -90.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          3.8953100e+00  3.5901661e+01  3.5997335e+01  MM
+

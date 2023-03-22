@@ -1,0 +1,38 @@
+﻿                      Masseneigenschaft von TEIL KUGELN_04
+
+                        VOLUMEN =  3.3510322e+01 MM^3
+                 FLÄCHENINHALT =  5.0265482e+01 MM^2
+                         DICHTE =  7.8270820e-06 KILOGRAMM / MM^3
+                          MASSE =  2.6228804e-04 KILOGRAMM 
+
+           SCHWERPUNKT in Bezug auf den Koordinatenrahmen _KUGELN_04:
+X   Y   Z           0.0000000e+00  0.0000000e+00  0.0000000e+00  MM
+
+     Trägheit in Bezug auf Koordinatensystem _KUGELN_04  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.1966079e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  4.1966093e-04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.1966086e-04
+
+        Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _KUGELN_04
+                                                      (KILOGRAMM * MM^2)        
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         4.1966079e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  4.1966093e-04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.1966086e-04
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          4.1966063e-04  4.1966109e-04  4.1966086e-04
+
+          Rotationsmatrix von _KUGELN_04 Orientierung auf Hauptachsen:
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+
+     Rotationswinkel von _KUGELN_04 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z       0.000          0.000          0.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          1.2649107e+00  1.2649114e+00  1.2649111e+00  MM
+

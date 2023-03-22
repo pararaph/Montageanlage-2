@@ -1,0 +1,38 @@
+﻿|***************************|
+    REFERENZ-INFORMATIONEN    
+|***************************|
+ Referenz Nr. 1 aus 1 
+
+Referenz:
+   TYP   : Ebene
+
+Status   : in Geometrie
+
+
+Referenz-Besitzer:
+ Modell  :
+   NAME   : 018_042 
+   TYP   : Teil
+ KE :
+
+    KE-Nummer       8
+    INTERNE KE-ID 64
+    Kinder = 3077(#9) 
+
+
+ IMPORT-KE
+
+  Nr.   ELEMENTNAME             INFORMATIONEN                                   
+  ---   -------------           -------------                                   
+   1    KE-Name                 Definiert                                       
+   2    Positionierungsmethode  Standard                                        
+   3    Koordinatensystem       Definiert                                       
+   4    Volumenkörper           Volumenkörper aktiviert                         
+   5    Material                Hinzufügen                                      
+
+
+
+Beziehung                           Parameter                 Neuer Wert
+--------                           ---------                 --- -----
+
+*** Von diesesm KE gesteuerte Teilebeziehungen:

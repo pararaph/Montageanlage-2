@@ -1,0 +1,38 @@
+﻿                       Masseneigenschaft von TEIL 011_027
+
+                        VOLUMEN =  1.5581611e+03 MM^3
+                 FLÄCHENINHALT =  1.4687491e+03 MM^2
+                         DICHTE =  2.7935540e-06 KILOGRAMM / MM^3
+                          MASSE =  4.3528073e-03 KILOGRAMM 
+
+            SCHWERPUNKT in Bezug auf den Koordinatenrahmen _011_027:
+X   Y   Z           0.0000000e+00  0.0000000e+00 -5.9344461e+00  MM
+
+      Trägheit in Bezug auf Koordinatensystem _011_027  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         3.3572426e-01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  3.3572414e-01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  9.1529903e-02
+
+         Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _011_027
+                                                     (KILOGRAMM * MM^2)         
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         1.8242862e-01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.8242850e-01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  9.1529903e-02
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          9.1529903e-02  1.8242845e-01  1.8242867e-01
+
+           Rotationsmatrix von _011_027 Orientierung auf Hauptachsen:
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+
+      Rotationswinkel von _011_027 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z     -90.000          0.000        -90.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          4.5856065e+00  6.4738340e+00  6.4738379e+00  MM
+

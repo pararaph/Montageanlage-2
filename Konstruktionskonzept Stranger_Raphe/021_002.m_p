@@ -1,0 +1,70 @@
+﻿                     Masseneigenschaft von BAUGRUPPE 021_002
+
+                        VOLUMEN =  8.3504761e+05 MM^3
+                 FLÄCHENINHALT =  3.0707264e+05 MM^2
+                MITTLERE DICHTE =  6.4393279e-06 KILOGRAMM / MM^3
+                          MASSE =  5.3771453e+00 KILOGRAMM 
+
+            SCHWERPUNKT in Bezug auf den Koordinatenrahmen _021_002:
+X   Y   Z           0.0000000e+00  3.3666898e+01 -1.7836602e+01  MM
+
+      Trägheit in Bezug auf Koordinatensystem _021_002  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         3.6658127e+04  1.3428442e+00  0.0000000e+00
+Iyx Iyy Iyz         1.3428442e+00  2.3368336e+04  4.4766017e+03
+Izx Izy Izz         0.0000000e+00  4.4766017e+03  5.0247399e+04
+
+         Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _021_002
+                                                     (KILOGRAMM * MM^2)         
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         2.8852640e+04  1.3416598e+00  0.0000000e+00
+Iyx Iyy Iyz         1.3416598e+00  2.1657627e+04  1.2476095e+03
+Izx Izy Izz         0.0000000e+00  1.2476095e+03  4.4152620e+04
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          2.1588644e+04  2.8852640e+04  4.4221603e+04
+
+           Rotationsmatrix von _021_002 Orientierung auf Hauptachsen:
+                      -0.00018       -1.00000        0.00000
+                       0.99847       -0.00018        0.05521
+                      -0.05521        0.00001        0.99847
+
+      Rotationswinkel von _021_002 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z      -3.165          0.000         90.011 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          6.3363156e+01  7.3251562e+01  9.0686231e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+           (in Baugruppeneinheiten und dem Koordinatensystem _021_002)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    021_006                          UNKNOWN
+         7.83725e-06  2.41592e+00  0.00000e+00  1.52557e+01 -4.30725e-01
+    021_007                          UNKNOWN
+         4.13186e-06  5.47879e-01  0.00000e+00 -7.38125e+01 -2.03253e+01
+    021_008                          UNKNOWN
+         4.98918e-06  1.18159e+00  0.00000e+00  1.40986e+02 -2.46588e+01
+    AUSZUG_KÄFIG_BG                 UNKNOWN
+         7.83654e-06  1.70216e-02  0.00000e+00 -6.85927e+00  6.99160e+00
+    017_009                          STAHL
+         7.85000e-06  6.70173e-03  7.00000e+01  3.62000e+01  3.37586e+00
+    017_009                          STAHL
+         7.85000e-06  6.70173e-03 -7.00000e+01  3.62000e+01  3.37586e+00
+    011_041                          STAHL
+         7.82708e-06  5.91865e-01  8.78685e+01  1.47000e+01 -4.60000e+01
+    017_018                          STAHL
+         7.85000e-06  4.40054e-03  8.00000e+01  4.97000e+01 -1.75923e+01
+    017_018                          STAHL
+         7.85000e-06  4.40054e-03  8.00000e+01 -2.03000e+01 -1.75923e+01
+    011_041                          STAHL
+         7.82708e-06  5.91865e-01 -8.78685e+01  1.47000e+01 -4.60000e+01
+    017_018                          STAHL
+         7.85000e-06  4.40054e-03 -8.00000e+01 -2.03000e+01 -1.75923e+01
+    017_018                          STAHL
+         7.85000e-06  4.40054e-03 -8.00000e+01  4.97000e+01 -1.75923e+01

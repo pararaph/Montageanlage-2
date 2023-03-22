@@ -1,0 +1,16 @@
+
+**** msg_mcmisc1.txt Compile Errors ****
+Missing argument index in format
+   msg_mcmisc1.txt(4399): M3c: Max. Krümmungsstetigkeits-Abweichung (%)
+                                                                       ^
+Illegal conversion character
+   msg_mcmisc1.txt(4399): M3c: Max. Krümmungsstetigkeits-Abweichung (%)
+                                                                       ^
+
+**** msg_mcmisc1.txt Compile Errors ****
+Missing argument index in format
+   msg_mcmisc1.txt(4399): M3c: Max. Krümmungsstetigkeits-Abweichung (%)
+                                                                       ^
+Illegal conversion character
+   msg_mcmisc1.txt(4399): M3c: Max. Krümmungsstetigkeits-Abweichung (%)
+                                                                       ^

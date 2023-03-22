@@ -1,0 +1,38 @@
+﻿            Masseneigenschaft von TEIL DRUCKSTÜCKGEWINDESICHERUNG_L9
+
+                        VOLUMEN =  1.1063790e+02 MM^3
+                 FLÄCHENINHALT =  1.4006219e+02 MM^2
+                         DICHTE =  7.8270820e-06 KILOGRAMM / MM^3
+                          MASSE =  8.6597191e-04 KILOGRAMM 
+
+        SCHWERPUNKT in Bezug auf den Koordinatenrahmen _DRUCKSTÜCKGEWIND:
+X   Y   Z           0.0000000e+00  0.0000000e+00  4.3324409e+00  MM
+
+  Trägheit in Bezug auf Koordinatensystem _DRUCKSTÜCKGEWIND  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         2.2793381e-02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.2814622e-02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.6970452e-03
+
+    Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _DRUCKSTÜCKGEWIND
+                                                          (KILOGRAMM * MM^2)    
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         6.5390504e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  6.5602916e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.6970452e-03
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          1.6970452e-03  6.5390504e-03  6.5602916e-03
+
+       Rotationsmatrix von _DRUCKSTÜCKGEWIND Orientierung auf Hauptachsen:
+                       0.00000        1.00000       -0.00013
+                       0.00000        0.00013        1.00000
+                       1.00000        0.00000        0.00000
+
+  Rotationswinkel von _DRUCKSTÜCKGEWIND Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z     -90.000          0.000        -90.000 
+
+                  TRÄGHEITSRADIEN in Bezug auf die HAUPTACHSEN:
+R1  R2  R3          1.3998929e+00  2.7479286e+00  2.7523881e+00  MM
+
